@@ -42,7 +42,7 @@ pip install pandas numpy seaborn scikit-learn matplotlib
 This synthetic model is a starting point for exploring energy efficiency prediction. You can replace the synthetic data with real datasets for more realistic insights.
 
 ## 📜 License
-
+```
 MIT License
 
 ```
