@@ -1,7 +1,7 @@
 
 # Energy Efficiency ML
 
-This project demonstrates a simple machine learning pipeline for predicting building energy efficiency using synthetic data. The model uses building features such as wall area, roof area, overall height, and glazing area to predict energy efficiency ratings.
+This project demonstrates a simple machine-learning pipeline for predicting building energy efficiency using synthetic data. The model uses building features such as wall area, roof area, overall height, and glazing area to predict energy efficiency ratings.
 
 ## 🔧 Features
 
@@ -24,9 +24,6 @@ This project demonstrates a simple machine learning pipeline for predicting buil
 5. Evaluate performance using Mean Squared Error
 6. Plot predicted vs actual energy efficiency values
 
-## 🧪 Example Output
-
-![scatter-plot](path/to/your/plot.png)
 
 ## 📦 Dependencies
 
